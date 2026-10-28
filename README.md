@@ -21,13 +21,13 @@ The BizCareers landing page, Terms of Use, Privacy Policy and Delete Your Accoun
 
 ## Links for Play Console
 
-- Privacy policy: `https://<your-username>.github.io/bizcareers/privacy.html`
-- Delete account: `https://<your-username>.github.io/bizcareers/delete-account.html`
+- Privacy policy: `https://usmanghanics.github.io/BizCareers/privacy.html`
+- Delete account: `https://usmanghanics.github.io/BizCareers/delete-account.html`
 
 ## Later
 
 - **Own address:** when jobs.bizcare.pk (or a page on the new bizcare.pk) is ready, add a `CNAME` file with that address and point the DNS at GitHub, or copy this folder to that server.
-- **Share preview image:** `og:image` is a relative link because the final address is not known yet. Once it is, make it a full link (`https://.../assets/icon.png`) so WhatsApp and Facebook always show the icon.
+- **Live at:** https://usmanghanics.github.io/BizCareers/ (share previews and canonical links point there). If the address changes, change `SITE` in the pages' `og:url`, `og:image` and `canonical` tags.
 - **Play link:** when the app is live, replace the two "Coming Soon to Google Play" badges in `index.html` with the Play Store link.
 
 Icons are Phosphor (MIT), taken from the app's own icon font. The people photos are from Pexels (free licence, see the app's `assets/people/CREDITS.txt`).
